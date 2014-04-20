@@ -1,0 +1,3 @@
+[submodule "micronucleus"]
+	path = micronucleus
+	url = https://github.com/micronucleus/micronucleus.git
